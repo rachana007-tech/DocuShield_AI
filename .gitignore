@@ -33,3 +33,7 @@ __pycache__/
 Thumbs.db
 datasets/
 backend/models/model.pth
+
+document_forensics/forensic_output/
+__pycache__/
+*.pyc
